@@ -1,19 +1,19 @@
- <h1 align="center">Hi 👋, I'm Kireeti Avula</h1>
-<h3 align="center">A passionate Programmer Analyst & Data Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Kireeti Avula</h1>
+<h3 align="center">A Programmer Analyst & Data Enthusiast from India</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=kireeti30&label=Profile%20views&color=0e75b6&style=flat" alt="kireeti30" />
 </p>
 
-
-
 - 🌱 I’m currently learning **React, AI-driven systems, and advanced cloud technologies**
 
-- 👯 I’m looking to collaborate on **Data Engineering and Backend Development projects**
+- 👯 I’m looking to collaborate on **Data Engineering and Analytics projects**
 
 - 🤝 I’m looking for help with **DevOps and scalable deployment practices**
 
-- 💬 Ask me about **Python, SQL, REST APIs, ETL, and Cloud Development**
+- 💬 Ask me about **Excel, Power BI, Databricks, AWS, SQL, Python, Pandas, NumPy, and PySpark**
+
+- ⚡ Passionate about turning **raw data into meaningful insights**
 
 - 📫 How to reach me **avulakireeti2001@gmail.com**
 
